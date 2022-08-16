@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdolphin_knowledge_base_public=self.webpackChunkdolphin_knowledge_base_public||[]).push([[5252],{6007:l=>{l.exports=JSON.parse('{"label":"hola","permalink":"/dolphin-knowledge-base-public/blog/tags/hola","allTagsPath":"/dolphin-knowledge-base-public/blog/tags","count":1}')}}]);
